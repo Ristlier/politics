@@ -1,10 +1,12 @@
 # Politics!™️
 Political simulation prompt designed for use with chat bots such as ChatGPT and Bing.
 
+**Bing:** This sim works very effectively on Bing, in creative mode. The main issue is depending on what version of Bing you're using, you may encounter a word limit which makes it impossible to send the prompt. There is also a 20 message limit, so games can only last 20 messages here. If you are on PC, and are using the Edge browser, use the Bing chat available here: https://bing.com/chat
 
-Prompt:
+**ChatGPT:** This sim works with mixed results on ChatGPT. Occasionally, it may ignore instructions from the prompt and may not display statistics and election results accurately. You can access ChatGPT here: https://chat.openai.com/?model=text-davinci-002-render-sha
 
 
+**Prompt:**
 ```
 👋 Welcome to Politics!™️ Ver. 1.6.1
 
