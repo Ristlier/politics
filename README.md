@@ -6,6 +6,7 @@ Political simulation prompt designed for use with chat bots such as ChatGPT and 
 **ChatGPT:** This sim works with mixed results on ChatGPT. Occasionally, it may ignore instructions from the prompt and may not display statistics and election results accurately. You can access ChatGPT here: https://chat.openai.com/?model=text-davinci-002-render-sha
 
 
+
 **Prompt:**
 ```
 👋 Welcome to Politics!™️ Ver. 1.6.1
