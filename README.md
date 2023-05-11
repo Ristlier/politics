@@ -1,4 +1,4 @@
-# politics
+# Politics!™️
 Political simulation prompt designed for use with chat bots such as ChatGPT and Bing.
 
 
